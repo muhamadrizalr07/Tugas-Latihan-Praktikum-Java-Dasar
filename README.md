@@ -14,3 +14,7 @@ tambahan minuman opsional, lalu menampilkan struk transaksi.
 
 ## Screenshot Output
 ![Output Program](screenshots/output.png)
+![Output Program](screenshots/Screenshot 2026-10-28 103756.png)
+![Output Program](screenshots/Screenshot 2026-10-28 103844.png)
+![Output Program](screenshots/Screenshot 2026-10-28 103931.png)
+![Output Program](screenshots/Screenshot 2026-10-28 103943.png)
